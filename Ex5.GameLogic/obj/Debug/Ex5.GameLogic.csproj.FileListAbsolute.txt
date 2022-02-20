@@ -1,0 +1,14 @@
+C:\Users\omer.benbenisty\Downloads\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\Ex5.GameLogic\bin\Debug\Ex5.GameLogic.dll.config
+C:\Users\omer.benbenisty\Downloads\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\Ex5.GameLogic\bin\Debug\Ex5.GameLogic.dll
+C:\Users\omer.benbenisty\Downloads\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\Ex5.GameLogic\bin\Debug\Ex5.GameLogic.pdb
+C:\Users\omer.benbenisty\Downloads\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\Ex5.GameLogic\obj\Debug\Ex5.GameLogic.csprojAssemblyReference.cache
+C:\Users\omer.benbenisty\Downloads\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\Ex5.GameLogic\obj\Debug\Ex5.GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\omer.benbenisty\Downloads\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\Ex5.GameLogic\obj\Debug\Ex5.GameLogic.dll
+C:\Users\omer.benbenisty\Downloads\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\Ex5.GameLogic\obj\Debug\Ex5.GameLogic.pdb
+C:\Users\omer.benbenisty\source\repos\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\Ex5.GameLogic\obj\Debug\Ex5.GameLogic.csprojAssemblyReference.cache
+C:\Users\omer.benbenisty\source\repos\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\Ex5.GameLogic\obj\Debug\Ex5.GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\omer.benbenisty\source\repos\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\Ex5.GameLogic\obj\Debug\Ex5.GameLogic.dll
+C:\Users\omer.benbenisty\source\repos\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\Ex5.GameLogic\obj\Debug\Ex5.GameLogic.pdb
+C:\Users\omer.benbenisty\source\repos\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\Ex5.GameLogic\bin\Debug\Ex5.GameLogic.dll.config
+C:\Users\omer.benbenisty\source\repos\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\Ex5.GameLogic\bin\Debug\Ex5.GameLogic.dll
+C:\Users\omer.benbenisty\source\repos\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\B21 Ex05 OmerBenbenisty 209545441 LiranGoldstein 204812689\Ex5.GameLogic\bin\Debug\Ex5.GameLogic.pdb
